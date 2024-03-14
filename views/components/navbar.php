@@ -1,7 +1,6 @@
 <header>
         <nav>
             <a href="/">Main Posts</a>
-            <a href="./about">About us</a>
-            <a href="./story">History</a>
+            <a href="/index.view">Kolekcijas</a>
         </nav>
     </header>

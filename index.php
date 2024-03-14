@@ -15,8 +15,4 @@ if ($url == "/about") {
     require "controllers/about.php";
 }
 
-if ($url == "/story") {
-    require "controllers/story.php";
-}
-
 ?>
