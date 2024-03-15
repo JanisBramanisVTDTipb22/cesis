@@ -1,17 +1,17 @@
 body {
-    background-color: saddlebrown;
+    background-color: black;
   }
 h1 {
-  color: seagreen;
+  color: grey;
   font-family: sans-serif;
 }
 
 p {
-  color: springgreen;
+  color: #36454F;
   font-family: cursive;
 }
 
-li {
+/* li {
   color: violet;
-  font-size: 0.5px;
-}
+  font-size: 50px;
+} */
