@@ -30,4 +30,9 @@ table, th, td {
   </tr>
 </table>
 
+</body>
 </html>
+
+<?php
+require "components/footer.php";  
+?>
