@@ -1,4 +1,4 @@
-<?php
+<?php 
 require "components/head.php";
 require "components/navbar.php";
 ?>
@@ -18,21 +18,24 @@ table, th, td {
   </tr>
   <tr>
     <td>Cēsis</td>
-    <td>Raitais Solis</td>
-    <td>Vidzeme</td>
-    <td>Dzieti</td>
+    <td>Pūtēju orķestris</td>
   </tr>
   <tr>
-    <td>Pūtēju orķestris</td>
+    <td>Raitais solis</td>
     <td>Tautu deju ansamblis</td>
+  </tr>
+  <tr>
+    <td>Vidzeme</td>
     <td>Jauktais koris</td>
+  </tr>
+  <tr>
+    <td>Dzieti</td>
     <td>Tautas vērtes kopa</td>
   </tr>
 </table>
 
 </body>
 </html>
-
-<?php
-require "components/footer.php";  
+<?php 
+require "components/footer.php";
 ?>

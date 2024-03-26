@@ -1,6 +1,7 @@
 <?php
 $routes = [
-    "/about" => "controllers/about.php",
+    "/" => "controllers/index.php",
+    "/collectives" => "controllers/collectives.php"
 ];
 
 ?>

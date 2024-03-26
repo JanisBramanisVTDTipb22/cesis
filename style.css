@@ -1,15 +1,16 @@
 body {
-    background-color: black;
+    background-color: goldenrod;
   }
 h1 {
-  color: grey;
+  color: yellow;
   font-family: sans-serif;
 }
 
 p {
-  color: #36454F;
+  color: blue;
   font-family: cursive;
 }
+
 
 /* li {
   color: violet;
