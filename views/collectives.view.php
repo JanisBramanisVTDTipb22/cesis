@@ -3,6 +3,7 @@ require "components/head.php";
 require "components/navbar.php";
 ?>
 
+<h1>CKC Kolektīvi</h1>
 <html>
 <style>
 table, th, td {

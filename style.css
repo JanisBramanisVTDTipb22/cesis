@@ -11,6 +11,18 @@ p {
   font-family: cursive;
 }
 
+nav {
+  margin-left: 20px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+label {
+  position: relative;
+  display: inline-block;
+}
 
 /* li {
   color: violet;
