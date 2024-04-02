@@ -1,9 +1,9 @@
 <?php
 $routes = [
-    "/" => "controllers/index.php",
+    "/" => "controllers/event/index.php",
     "/collectives" => "controllers/collectives.php",
-    "/delete" => "views/delete.view.php",
-    "/edit" => "views/edit.view.php",
+    "/delete" => "controllers/event/delete.php",
+    "/edit" => "controllers/event/edit.php",
     "/create" => "views/create.view.php"
 ];
 
