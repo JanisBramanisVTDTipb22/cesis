@@ -14,12 +14,11 @@ class Database {
     }
 
     //saglabāt sql izpildei
-    public function execute($query_string){
-
+    public function execute($query_string, $params){
         $query = $this->pdo->prepare($query_string);
     
     //izpildīt sql
-    //$query->execute();
+    $query->execute($params);
     //atgriez rezultātus
     return $query;      
     }
