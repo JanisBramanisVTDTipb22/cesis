@@ -34,4 +34,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 //dd($_SERVER);
 
 $title = "cancer";
-require "views/create.view.php";
+require "views/posts/create.view.php";

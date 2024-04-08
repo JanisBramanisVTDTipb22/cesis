@@ -1,6 +1,6 @@
 <?php 
-require "components/head.php";
-require "components/navbar.php";
+require "views/components/head.php";
+require "views/components/navbar.php";
 ?>
 
 <h1>Veido datu vadilāciju</h1>
@@ -26,5 +26,5 @@ require "components/navbar.php";
     </form>
 
 <?php 
-require "components/footer.php";
+require "views/components/footer.php";
 ?>
